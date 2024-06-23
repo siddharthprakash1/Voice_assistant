@@ -1,0 +1,10 @@
+opencv-python
+langchain
+langchain-openai #for paid version
+langchain_google_genai #for paid version
+langchain-community
+python-dotenv
+pyaudio
+soundfile
+SpeechRecognition
+
