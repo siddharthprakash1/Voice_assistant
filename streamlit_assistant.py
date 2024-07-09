@@ -166,3 +166,4 @@ if prompt:
 if st.button("Clear Chat"):
     st.session_state.messages = []
     st.experimental_rerun()
+
